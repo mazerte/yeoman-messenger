@@ -1,0 +1,30 @@
+{
+  "name": "yeoman-messenger",
+  "version": "0.1.0",
+  "description": "Mobile app generator for Yeoman based on Foot Guard",
+  "keywords": [
+    "front-end",
+    "development",
+    "dev",
+    "build",
+    "backbone",
+    "web",
+    "tool",
+    "cli",
+    "mobile",
+    "jquery"
+  ],
+  "bugs": "https://github.com/mazerte/yeoman-messenger/issues",
+  "author": "Mathieu Desvé",
+  "main": "./lib/generators",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mazerte/yeoman-messenger.git"
+  },
+  "dependencies": {
+	
+  },
+  "devDependencies": {
+
+  }
+}
